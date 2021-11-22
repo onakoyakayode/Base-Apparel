@@ -15,6 +15,6 @@
 .DS_Store
 
 
-*.style-guide.md
+*style-guide.md
 *.README.md
 *.README-template.md
